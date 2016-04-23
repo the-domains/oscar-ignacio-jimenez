@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[CINEMATOGRAPHY]]></title>
         <description><![CDATA[CINEMATOGRAPHY]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/oscar-ignacio-jimenez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 21:42:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Apr 2016 21:43:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/oscar-ignacio-jimenez/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p> ART OF CINEMATOGRAPHY</p>]]></description>
-            <link>undefinedart-of-cinematography/index.html</link>
+            <link>https://thegrid.ai/oscar-ignacio-jimenez/art-of-cinematography/index.html</link>
             <guid isPermaLink="false">d321c53a-090b-40e5-8cbf-50e1961f444c</guid>
-            <pubDate>Sat, 23 Apr 2016 21:42:28 GMT</pubDate>
+            <pubDate>Sat, 23 Apr 2016 21:43:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
