@@ -1,4 +1,4 @@
-name: OSCAR IGNACIO JIMENEZ
+name: OscarIgnacioJimenez
 favicon: null
 layout_spectrum: 0.6876252482179552
 typography_spectrum: 0.977643025573343
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.869169486919418
-  lightness: 0.14953808952122927
-  saturation: 0.3755984124727547
-  rhythmicContrast: 0.020661027869209647
+    - '#000000'
+    - '#887c62'
+    - '#422a1e'
+    - '#485251'
+    - '#a09d7a'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
