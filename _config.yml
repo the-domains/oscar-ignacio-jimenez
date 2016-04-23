@@ -1,7 +1,7 @@
 name: OscarIgnacioJimenez
 favicon: null
-layout_spectrum: 0.6876252482179552
-typography_spectrum: 0.977643025573343
+layout_spectrum: 0.2147
+typography_spectrum: 0.75542
 title: CINEMATOGRAPHY
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#422a1e'
     - '#485251'
     - '#a09d7a'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 1
-  saturation: 0.5
+  saturation: 1
   rhythmicContrast: 0
 purpose: []
