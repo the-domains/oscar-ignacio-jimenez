@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[CINEMATOGRAPHY]]></title>
+        <description><![CDATA[CINEMATOGRAPHY]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Apr 2016 21:42:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p> ART OF CINEMATOGRAPHY</p>]]></description>
+            <link>undefinedart-of-cinematography/index.html</link>
+            <guid isPermaLink="false">d321c53a-090b-40e5-8cbf-50e1961f444c</guid>
+            <pubDate>Sat, 23 Apr 2016 21:42:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
