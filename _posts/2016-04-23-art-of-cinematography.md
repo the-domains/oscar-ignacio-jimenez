@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' ART OF CINEMATOGRAPHY'
-datePublished: '2016-04-23T21:42:28.392Z'
-dateModified: '2016-04-23T21:40:02.385Z'
+datePublished: '2016-04-23T21:43:20.364Z'
+dateModified: '2016-04-23T21:42:35.986Z'
 title: ''
 author: []
 authors: []
@@ -15,9 +15,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-04-23-art-of-cinematography.md
 published: true
+starred: true
 url: art-of-cinematography/index.html
 _type: Article
 
